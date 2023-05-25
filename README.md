@@ -30,6 +30,6 @@ Problem Solved: Create clusters of social media posts and identify high performa
 
 ## Evaluation
 
-## hypothesisTesting
+## hypothesis Testing
 
 ## Dashboard
