@@ -21,7 +21,7 @@ They want to quantify what is working and what is not.\
 Problem Solved: Create clusters of social media posts and identify high performance posts for customers to see what they do uniquely to help drive performances.
 
 ## EDA
-Reviewing the data quality, cleansing the data, and checking features are good to feed in model.\
+Reviewing the data quality, cleansing the data, and checking features are good to feed in model and split into train-test set.\
 ![image](https://github.com/weibb123/Social_Media_Cluster_Dashboard/assets/84426364/14401496-9c4c-4686-8d91-22d5c4a8a12a)\
 Shorts are common type of posts. Tiktok, instagram reels, and youtube shorts are popular since they are easy to produce and grab audience attentions.\
 ![image](https://github.com/weibb123/Social_Media_Cluster_Dashboard/assets/84426364/15aa353d-cdfe-4ad5-8e8c-5c3da4eb36ca)\
