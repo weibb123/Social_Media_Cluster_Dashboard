@@ -12,7 +12,7 @@
 
 [Evaluation Metrics](#Evaluation)
 
-[hypothesis Testing](#hypothesisTesting)
+[Hypothesis Testing](#Hypothesis Testing)
 
 [Dashboard](#dashboard)
 
@@ -30,6 +30,6 @@ Problem Solved: Create clusters of social media posts and identify high performa
 
 ## Evaluation
 
-## hypothesis Testing
+## Hypothesis Testing
 
 ## Dashboard
