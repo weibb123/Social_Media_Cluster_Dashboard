@@ -6,13 +6,13 @@
 
 [Data](#Data)
 
-[EDA](#Exploratory Data Analysis)  
+[EDA](#EDA)  
 
 [Method](#Method)
 
-[Evaluation Metrics](#Evaluation Metrics)
+[Evaluation Metrics](#Evaluation)
 
-[hypothesis Testing](#hypothesis Testing)
+[hypothesis Testing](#hypothesisTesting)
 
 [Dashboard](#dashboard)
 
@@ -24,12 +24,12 @@ Problem Solved: Create clusters of social media posts and identify high performa
 
 ## Data
 
-## Exploratory Data Analysis
+## EDA
 
 ## Method
 
-## Evaluation Metrics
+## Evaluation
 
-## hypothesis Testing
+## hypothesisTesting
 
 ## Dashboard
