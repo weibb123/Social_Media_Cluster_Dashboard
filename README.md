@@ -42,11 +42,13 @@ We can see that the best clusters to choose is four.
 ## Hypothesis
 Using the clusters we created with KMeans, we can perform a hypothesis test to validate our hypothesis.\
 \
-![image](https://github.com/weibb123/Social_Media_Cluster_Dashboard/assets/84426364/35e93090-f40d-4e28-8f4a-6e7220d482f1)\
-Based on the clusters, we see that cluster 1 have a higher number of reactions and comments than other three clusters.\
-We want to test if cluster 1 have a higher number of reactions on average\
+![image](https://github.com/weibb123/Social_Media_Cluster_Dashboard/assets/84426364/00040453-87f3-4d41-aa29-852d24a87490)\
+Based on the clusters, we see that cluster 1 have a higher number of reactions and comments than other three clusters.
+
+We want to test if cluster 1 have a higher number of reactions on average
+
 Null hypothsis: number of reactions of cluster 1 is less than or equal to other clusters\
-Alternative hypoyhrsis: number of reactions of cluster 1 is greater than other clusters.\
+Alternative hypothsis: number of reactions of cluster 1 is greater than other clusters.\
 Using a t-test, we find that p-value < 0.01, which suggests us to reject null hypothesis since it is unlikely to see the observed data occur if null hypothesis is true.
 \
 Next, with this results and the hypothesis confirmed, we can inform others to look into cluster 1 to seek engagement.
