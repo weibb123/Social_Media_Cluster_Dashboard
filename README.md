@@ -4,8 +4,6 @@
 ##### Table of Contents
 [Problem](#Problem)
 
-[Data](#Data)
-
 [EDA](#EDA)  
 
 [Method](#Method)
