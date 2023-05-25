@@ -2,11 +2,20 @@
 ![image](https://github.com/weibb123/Social_Media_Cluster_Dashboard/assets/84426364/54bb417e-51da-486f-b004-d1c8cd07e5e5)
 
 ##### Table of Contents
-[Problem](#problem)
-[Data](#headers)  
+[Problem](#Problem)
+
+[Data](#Data)
+
 [Exploratory Data Analysis](#EDA)  
-...snip...    
-<a name="headers"/>
+
+[Method](#Method)
+
+[Evaluation Metrics](#Evaluation)
+
+[hypothesis Testing](#hypothesis)
+
+[Dashboard](#dashboard)
+
 
 ## Problem
 Suppose customers come and ask to help with social media analytic projects to help manage social media for their clients.\
@@ -15,19 +24,12 @@ Problem Solved: Create clusters of social media posts and identify high performa
 
 ## Data
 
+## Exploratory Data Analysis
 
-## EDA
+## Method
 
-## Data
+## Evaluation Metrics
 
-gdfghdd
-fg
-dfg
-dfg dfg
-dfg
-df
-gd
-fg
-df
-gdf
-gd
+## hypothesis Testing
+
+## Dashboard
