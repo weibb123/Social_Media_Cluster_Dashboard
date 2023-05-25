@@ -6,13 +6,13 @@
 
 [Data](#Data)
 
-[Exploratory Data Analysis](#EDA)  
+[EDA](#Exploratory Data Analysis)  
 
 [Method](#Method)
 
-[Evaluation Metrics](#Evaluation)
+[Evaluation Metrics](#Evaluation Metrics)
 
-[hypothesis Testing](#hypothesis)
+[hypothesis Testing](#hypothesis Testing)
 
 [Dashboard](#dashboard)
 
