@@ -14,6 +14,8 @@
 
 [Dashboard](#dashboard)
 
+[Actknowledgement](#Actknowledgement)
+
 
 ## Problem
 Suppose customers come and ask to help with social media analytic projects to help manage social media for their clients.\
@@ -55,3 +57,6 @@ Next, with this results and the hypothesis confirmed, we can inform others to lo
 
 ## Dashboard
 The end result of this project is to create an interactive dashboard with DASH.
+
+## Actknowledgement
+Thanks to Nicholas Renotte for providing the dataset!
